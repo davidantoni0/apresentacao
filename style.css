@@ -1,4 +1,34 @@
-
-.header{
+body{
+    
+    background-color: lightyellow;
+}
+h1{
+    font-size: xx-large;
+    background-color: rgb(252, 252, 184);
+}
+h2{
+    font-size: x-large;
+    background-color: rgb(252, 252, 184);
+}
+h5{
+    font-size: medium;
+    background-color: rgb(227, 135, 54);
+}
+.site-header{
+    font-size: x-large;
+    text-align: center;
     color: brown;
+    background-color: rgb(247, 247, 142);
+}
+#sobre-mim-titulo{
+    font-style: italic;
+}
+a {
+    color: #ff4400;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
 }
