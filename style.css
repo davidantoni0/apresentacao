@@ -20,6 +20,11 @@ h5{
     color: brown;
     background-color: rgb(247, 247, 142);
 }
+#greeting{
+    font-size: xx-large;
+    margin: 0;
+    padding: 0;
+}
 #sobre-mim-titulo{
     font-style: italic;
 }
